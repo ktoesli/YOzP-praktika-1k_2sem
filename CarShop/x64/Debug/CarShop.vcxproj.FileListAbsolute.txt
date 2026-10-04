@@ -1,0 +1,2 @@
+D:\progi\work\car_test\CarShop\x64\Debug\CarShop.vcxproj.AssemblyReference.cache
+D:\progi\projjj\car_test\CarShop\x64\Debug\CarShop.vcxproj.AssemblyReference.cache

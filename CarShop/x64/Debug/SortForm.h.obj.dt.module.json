@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CarShop\\x64\\Debug\\SortForm.obj",
+            "outputs": [
+                "CarShop\\x64\\Debug\\SortForm.h.obj.dt.module.json",
+                "CarShop\\x64\\Debug\\SortForm.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

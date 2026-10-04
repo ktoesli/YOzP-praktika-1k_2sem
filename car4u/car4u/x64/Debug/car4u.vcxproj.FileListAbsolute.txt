@@ -1,0 +1,5 @@
+D:\progi\work\car_test\car4u\x64\Debug\Ijwhost.dll
+D:\progi\work\car_test\car4u\x64\Debug\car4u.deps.json
+D:\progi\work\car_test\car4u\x64\Debug\car4u.runtimeconfig.json
+D:\progi\work\car_test\car4u\car4u\x64\Debug\car4u.genruntimeconfig.cache
+D:\progi\work\car_test\car4u\car4u\x64\Debug\car4u.vcxproj.Up2Date

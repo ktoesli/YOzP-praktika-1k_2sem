@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CarShop\\x64\\Debug\\marshal.obj",
+            "outputs": [
+                "CarShop\\x64\\Debug\\marshal.h.obj.dt.module.json",
+                "CarShop\\x64\\Debug\\marshal.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
